@@ -115,7 +115,7 @@ const raj = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rajgupta9044&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
+<img src="https://github-profile-trophy-winning.vercel.app/?username=rajgupta9044&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="100%" />
 
 </div>
 
@@ -160,18 +160,29 @@ const raj = {
 
 ### 📬 Connect With Me
 
-<div align="center">
+<<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raj%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-gupta-067161298)
-[![GitHub](https://img.shields.io/badge/GitHub-rajgupta9044-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajgupta9044)
-[![Gmail](https://img.shields.io/badge/Gmail-rajgpt9044@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajgpt9044@gmail.com)
+<!-- availability badge -->
+![Available](https://img.shields.io/badge/Status-Open%20to%20Full%20Stack%20Internships-22c55e?style=for-the-badge&labelColor=166534)
+
+### 💬 Let's Build Something Great
+
+> *Drop a message — I reply fast ⚡*
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=rajgupta9044&label=Profile+Views&color=1A56DB&style=flat)
+[![LinkedIn](https://img.shields.io/badge/─────%20LinkedIn%20─────-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/raj-gupta-067161298)
+
+[![GitHub](https://img.shields.io/badge/─────%20GitHub%20─────-161b22?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22)](https://github.com/rajgupta9044)
+
+[![Gmail](https://img.shields.io/badge/─────%20Gmail%20─────-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:rajgpt9044@gmail.com)
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A56DB&height=100&section=footer" />
+![Visitor Count](https://komarev.com/ghpvc/?username=rajgupta9044&label=👁️+Profile+Views&color=0e75b6&style=for-the-badge)
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65" />
 
 </div>
