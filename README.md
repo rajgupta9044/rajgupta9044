@@ -144,13 +144,6 @@
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&Ah, I see exactly what happened! It looks like the markdown renderer got confused and tried to turn the raw URLs inside the HTML `src` attributes into clickable links, which completely broke the syntax and caused that messy text bleed. 
-
-I've stripped out the auto-linking formatting and removed the citation tags from inside the text so it won't show up on your actual GitHub profile. Here is the fully corrected, clean code block containing your updated MERN stack project, CPBYTE Club experience, and 7.8 CGPA[cite: 1]. 
-
-You can safely click "Copy" on this block:
-```markdown
-<div align="center">
 
 <!-- Animated banner -->
 <img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Raj%20Gupta&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Node.js%20%7C%20MongoDB&descAlignY=55&descSize=18](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Raj%20Gupta&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Node.js%20%7C%20MongoDB&descAlignY=55&descSize=18)" />
@@ -161,8 +154,19 @@ You can safely click "Copy" on this block:
 </div>
 
 <br/>
+<div align="center">
 
-<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=1A56DB&height=120&section=header](https://capsule-render.vercel.app/api?type=waving&color=1A56DB&height=120&section=header)" />
+<!-- Animated banner -->
+<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Raj%20Gupta&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Node.js%20%7C%20MongoDB&descAlignY=55&descSize=18](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Raj%20Gupta&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Node.js%20%7C%20MongoDB&descAlignY=55&descSize=18)" alt="Header Banner" />
+
+<!-- Line 1: Role cycling — techy & full stack focused -->
+<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=58A6FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=58A6FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=)⚡+Full+Stack+Developer+%7C+React+%2B+Node.js;🛠️+Building+scalable+web+apps+end-to-end;🎨+Crafting+pixel-perfect+UIs+with+React.js;🔧+Backend+APIs+with+Node.js+%26+Express;🗄️+Databases%3A+MongoDB+%7C+SQL;☁️+AWS+Certified+Cloud+Practitioner;🧠+400%2B+DSA+Problems+%7C+LeetCode+%26+GFG;🚀+Open+to+Full+Stack+Internships+2026%2F2027" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=1A56DB&height=120&section=header](https://capsule-render.vercel.app/api?type=waving&color=1A56DB&height=120&section=header)" alt="Wave Footer" />
 
 ---
 
