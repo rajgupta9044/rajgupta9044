@@ -40,23 +40,6 @@
 
 <div align="center">
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=rajgupta9044&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajgupta9044&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajgupta9044&theme=tokyonight&hide_border=true" width="500" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajgupta9044&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
 ### 🔥 Featured Projects
 
 <div align="center">
@@ -145,22 +128,13 @@
 <br/><br/>
 
 
-<!-- Animated banner -->
-<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Raj%20Gupta&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Node.js%20%7C%20MongoDB&descAlignY=55&descSize=18](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Raj%20Gupta&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Node.js%20%7C%20MongoDB&descAlignY=55&descSize=18)" />
-
-<!-- Line 1: Role cycling — techy & full stack focused -->
-<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=58A6FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=58A6FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=)⚡+Full+Stack+Developer+%7C+React+%2B+Node.js;🛠️+Building+scalable+web+apps+end-to-end;🎨+Crafting+pixel-perfect+UIs+with+React.js;🔧+Backend+APIs+with+Node.js+%26+Express;🗄️+Databases%3A+MongoDB+%7C+SQL;☁️+AWS+Certified+Cloud+Practitioner;🧠+400%2B+DSA+Problems+%7C+LeetCode+%26+GFG;🚀+Open+to+Full+Stack+Internships+2026%2F2027" alt="Typing SVG" />
-
-</div>
-
-<br/>
 <div align="center">
 
 <!-- Animated banner -->
 <img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Raj%20Gupta&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Node.js%20%7C%20MongoDB&descAlignY=55&descSize=18](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Raj%20Gupta&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Node.js%20%7C%20MongoDB&descAlignY=55&descSize=18)" alt="Header Banner" />
 
 <!-- Line 1: Role cycling — techy & full stack focused -->
-<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=58A6FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=58A6FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=)⚡+Full+Stack+Developer+%7C+React+%2B+Node.js;🛠️+Building+scalable+web+apps+end-to-end;🎨+Crafting+pixel-perfect+UIs+with+React.js;🔧+Backend+APIs+with+Node.js+%26+Express;🗄️+Databases%3A+MongoDB+%7C+SQL;☁️+AWS+Certified+Cloud+Practitioner;🧠+400%2B+DSA+Problems+%7C+LeetCode+%26+GFG;🚀+Open+to+Full+Stack+Internships+2026%2F2027" alt="Typing SVG" />
+<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=58A6FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=58A6FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=)⚡+Full+Stack+Developer+%7C+React+%2B+Node.js;🛠️+Building+scalable+web+apps+end-to-end;🎨+Crafting+pixel-perfect+UIs+with+React.js;🔧+Backend+APIs+with+Node.js+%26+Express;🗄️+Databases%3A+MongoDB+%7C+SQL;☁️+AWS+Certified+Cloud+Practitioner;🧠+400%2B+DSA+Problems+%7C+LeetCode+%26+GFG;🚀+Open+to+Full+Stack+Internships+2026%2F2027" alt="Typing SVG" />
 
 </div>
 
@@ -170,7 +144,9 @@
 
 ---
 
+
 <div align="center">
+
 
 ### 🧑‍💻 About Me
 
