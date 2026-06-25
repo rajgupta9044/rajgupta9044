@@ -103,7 +103,7 @@ const raj = {
 ### 📜 Certifications
 
 * AWS Certified Cloud Practitioner
-* Introduction to MongoDB
+* AWS AI Practioner
 * Full Stack Web Development
 
 ---
