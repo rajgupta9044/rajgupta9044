@@ -89,7 +89,7 @@ const raj = {
 | **MERN-based coding platform** with Judge0 & AI integration | **MERN-based campus community platform** with student-focused services |
 | ⚡ Online code execution & evaluation using **Judge0** | ⚡ **PG/Hostel finder, marketplace & ride-sharing** |
 | 🤖 AI-assisted coding support with **role-based admin controls** | 📚 Notes sharing, club discovery & **admin content approval** |
-| 🔗 [Live Demo](https://devshala-rho.vercel.app/signup) | 🔗 [Live Demo](https://campus-connect-kappa-taupe.vercel.app/login) |
+| 🔗 [Live Demo](https://devshala-rho.vercel.app) | 🔗 [Live Demo](https://campus-connect-kappa-taupe.vercel.app/login) |
 
 ---
 
